@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
+To build the static site run:
+
+```bash
+yarn export
+```
 
 ## Notes
 
