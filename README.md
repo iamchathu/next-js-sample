@@ -22,7 +22,7 @@ yarn export
 
 ## Notes
 
-* This project use vulnarble lodash dependancy on purpose to showcase security scan in the build pipeline and will update to new version later on the session.
+* This project use vulnerable lodash dependency on purpose to showcase security scan in the build pipeline and will update to new version later on the session.
 
 ## Learn More
 
